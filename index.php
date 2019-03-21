@@ -68,7 +68,7 @@
             <p class="lead mb-5">I am a full time and dedicated student at UCC.<br>I am flexible and willing to learn<br>I am hard working.<br>I have good organisational skills.<br>I have great communication skills and tend to thrive in group activity.</p>
           <div class="social-icons">
    
-            <a href="https://github.com/">
+            <a href="https://jolphp118340381.herokuapp.com/">
               <i class="fab fa-github"></i>
             </a>
         
@@ -172,3 +172,11 @@
   </body>
 
 </html>
+
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
